@@ -1,0 +1,34 @@
+---
+title: "Home"
+---
+<br>
+
+
+<IMG SRC="Emmanuel_Selorm_Tsyawo2018.jpg" style="width:225px;height:300px;" ALIGN="right" HSPACE="50"/> 
+
+<br>
+
+I am an Assistant Professor of Economics at Mohammed VI University, Morocco. My primary research interests are Microeconometrics and Empirical Industrial Organisation.
+
+<br>
+
+<br>
+
+<!--
+<a href="Tsyawo_JMP.pdf#" class="download" title="Download JMP as PDF">Job Market Paper</a>
+-->
+
+<br>
+
+<a href="Tsyawo_CV.pdf#" class="download" title="Download CV as PDF">Curriculum Vitae</a>			
+
+<br>
+
+<!--Email: estsyawo[at]temple[dot]edu, estsyawo[at]gmail[dot]com-->
+Email: etsyawo [at] gmail [dot] com
+
+Address: Université Mohammed VI Polytechnique, 
+
+Faculté de Gouvernance, Sciences Economiques et Sociales (FGSES)
+
+Technopolis, Rocade Rabat-Salé, Morocco

@@ -1,0 +1,32 @@
+name: "Yasser Elfahli"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Yasser Elfahli"                             # CHANGE HERE 
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Research"
+      icon: fa-user 
+      href: research.html
+    - text: "Code"
+      icon: fa-user 
+      href: code.html
+    - text: "Teaching"
+      icon: fa-user 
+      href: teaching.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto: yelfa086@uottawa.ca                    # CHANGE HERE 
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/estsyawo       # CHANGE HERE 
+output:
+  html_document:
+    theme: spacelab                                #cosmo   paper  simplex spacelab
+    highlight: textmate                         #  pygments

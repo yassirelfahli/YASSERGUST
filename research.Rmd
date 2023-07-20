@@ -1,0 +1,47 @@
+---
+title: "Research"
+---
+<br> 
+
+<!--# ****-->
+
+<br>
+
+### **Publications**
+
+* [Feasible IV Regression without Excluded Instruments](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utac032/6888009?redirectedFrom=fulltext), [[ArXiv](https://arxiv.org/pdf/2103.09621.pdf?)], [<a href="Tsyawo_2022_online_appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Replication_package_Tsyawo_2022.zip#" class="download" title=" ">Replication Files</a>], (*The Econometrics Journal*, 2023)
+
+* [Policy Spillover Effects on Student Achievement – Evidence from PISA](https://link.springer.com/article/10.1007/s12076-022-00310-y), [<a href="Gerstner_Tsyawo_Full_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gerstner&Tsyawo_2022_Code.zip#" class="download" title=" ">Replication Files</a>], (with Clara-Christina Gerstner, *Letters in Spatial and Resource Sciences*, 2022)
+
+* [Neighbourhood Effects and the Incidence of Child Labour](https://link.springer.com/article/10.1007/s12076-021-00276-3), [<a href="Gaku&Tsyawo_2020_11.pdf#" class="download" title="Download">Paper</a>], [<a href="Gaku&Tsyawo_2020_11_Online_Appendix.pdf#" class="download" title="Download">Online Appendix</a>], [<a href="Gaku&Tsyawo_2021_Code_Final.zip#" class="download" title=" ">Replication Files</a>], (with Sylvanus Gaku, *Letters in Spatial and Resource Sciences*, 2021)
+
+<br>
+
+### **Working Papers**
+
+* Clustered Covariate Regression (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2302.09255.pdf)], 
+  + R Package: [cluscov](https://estsyawo.github.io/cluscov/)
+  
+* A Consistent ICM-based $\chi^2$ Specification Test (with Feiyu Jiang), [[ArXiv](https://arxiv.org/pdf/2208.13370.pdf)]
+
+* A Distance Covariance-based Estimator (with Abdul-Nasah Soale), [[ArXiv](https://arxiv.org/pdf/2102.07008.pdf)]
+
+* [R&D spillover effects on firm innovation - Estimating the spatial matrix from panel data](https://estsyawo.github.io/Tsyawo_JMP.pdf#)
+  + R Package: [RpacSPD](https://estsyawo.github.io/RpacSPD/)  
+
+* Bayesian Distribution Regression (with Weige Huang), [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658)]
+  + R Package: [bayesdistreg](https://estsyawo.github.io/bayesdistreg/index.html)
+
+
+<!--
+
+<br>
+
+
+* [Recovering Distributions for the Estimation of Treatment Effects Under Partly Unobserved Treatment with Repeated Cross-Sections](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3194286) (status: working paper)
+
+<!-- Commented out: -->
+
+<!--
+* <a href="Huang&Tsyawo2018_4.pdf#" class="download" title=" ">Bayesian Distribution Regression</a> [[Submitted]](with Weige Huang)
+-->
